@@ -1,0 +1,23 @@
+{
+  "name": "stylelint-config-mrhenry",
+  "version": "1.0.0",
+  "description": "Mr. Henry's stylelint config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/mrhenry/stylelint-config-mrhenry",
+  "keywords": [
+    "stylelint"
+  ],
+  "author": "@mrhenry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrhenry/stylelint-config-mrhenry/issues"
+  },
+  "homepage": "https://github.com/mrhenry/stylelint-config-mrhenry#readme",
+  "dependencies": {
+    "stylelint-config-recommended": "^1.0.0",
+    "stylelint-config-standard": "^17.0.0"
+  }
+}
